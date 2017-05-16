@@ -20,9 +20,9 @@ quantity.times do |pizza|
 end
 
 # Iterates over each order and prints details
-
-pizza_toppings.each do |pizzas|
 count = 1
+pizza_toppings.each do |pizzas|
+
   puts "Pizza #{count} with #{pizzas} toppings has been ordered!"
   count+=1
 end

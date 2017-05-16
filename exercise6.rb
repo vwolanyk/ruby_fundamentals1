@@ -1,10 +1,10 @@
 # Exercise 6 - GET SOME Exercise
+# ================================
 
 # Set Distance Counter
 distance_from_home = 0
 
 # Set variable to continue while loop
-
 want_to_exercise = true
 
 # Looping Exercise
